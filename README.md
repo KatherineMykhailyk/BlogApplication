@@ -11,7 +11,7 @@ Please download or clone this repository and then follow the following steps:
 
 1. Yarn / NPM Install
 2. Yarn start / NPM start
-3. The application is usually available at http://localhost:3000/
+3. Go to http://localhost:3000/
 
 In scope:
 
