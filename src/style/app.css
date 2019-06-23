@@ -1,0 +1,8 @@
+.create_container {
+    width: 500px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    padding-top: 100px;
+    border-radius: 5px;
+}
