@@ -9,7 +9,7 @@ The visual style was borrowed from ant.design.
 
 Please download or clone this repository and then follow the following steps:
 
-1. Yarn / NPM Install
+1. Yarn / NPM install
 2. Yarn start / NPM start
 3. Go to http://localhost:3000/
 
@@ -19,6 +19,7 @@ In scope:
 2. View specific Post
 3. Create Post
 4. Delete Post (created in order to maintain the quantity of posts)
+5. React Router
 
 Out of scope:
 
